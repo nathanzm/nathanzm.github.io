@@ -16,7 +16,7 @@ p a {
   text-decoration: underline;
 }
 h1,
-h2,
+h2
 h3,
 h4,
 h5,
@@ -24,7 +24,6 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   text-shadow:
-
 }
 a {
   color: #333333;
@@ -279,7 +278,7 @@ hr.small {
 }
 .section-heading {
   font-size: 36px;
-  margin-top: 60px;
+  margin-top: 30px;
   font-weight: 700;
 }
 .caption {
