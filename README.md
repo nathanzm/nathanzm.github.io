@@ -1,2 +1,2 @@
-## welcome to my personal website!
-# http://www.nathanzmorse.com
+# welcome to my personal website:
+## http://www.nathanzmorse.com
